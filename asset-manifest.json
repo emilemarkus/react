@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.bcb42518.chunk.css",
-    "main.js": "/react/static/js/main.7753987c.chunk.js",
-    "main.js.map": "/react/static/js/main.7753987c.chunk.js.map",
-    "runtime-main.js": "/react/static/js/runtime-main.3e4a0562.js",
-    "runtime-main.js.map": "/react/static/js/runtime-main.3e4a0562.js.map",
-    "static/js/2.ffb4dcf0.chunk.js": "/react/static/js/2.ffb4dcf0.chunk.js",
-    "static/js/2.ffb4dcf0.chunk.js.map": "/react/static/js/2.ffb4dcf0.chunk.js.map",
-    "index.html": "/react/index.html",
-    "precache-manifest.49b3b4b3d92906f78236d7cdb0a38beb.js": "/react/precache-manifest.49b3b4b3d92906f78236d7cdb0a38beb.js",
-    "service-worker.js": "/react/service-worker.js",
-    "static/css/main.bcb42518.chunk.css.map": "/react/static/css/main.bcb42518.chunk.css.map",
-    "static/js/2.ffb4dcf0.chunk.js.LICENSE.txt": "/react/static/js/2.ffb4dcf0.chunk.js.LICENSE.txt",
-    "static/media/image 2.1.png": "/react/static/media/image 2.1.dc143a47.png",
-    "static/media/image.png": "/react/static/media/image.377d9706.png",
-    "static/media/App.css": "/react/static/media/wood-right.ae50cb0d.png",
-    "static/media/wood-restaurant.png": "/react/static/media/wood-restaurant.b889fe50.png"
+    "main.css": "/react/wood/static/css/main.4d5a6c90.chunk.css",
+    "main.js": "/react/wood/static/js/main.0f1c144f.chunk.js",
+    "main.js.map": "/react/wood/static/js/main.0f1c144f.chunk.js.map",
+    "runtime-main.js": "/react/wood/static/js/runtime-main.7bb924f2.js",
+    "runtime-main.js.map": "/react/wood/static/js/runtime-main.7bb924f2.js.map",
+    "static/js/2.ffb4dcf0.chunk.js": "/react/wood/static/js/2.ffb4dcf0.chunk.js",
+    "static/js/2.ffb4dcf0.chunk.js.map": "/react/wood/static/js/2.ffb4dcf0.chunk.js.map",
+    "index.html": "/react/wood/index.html",
+    "precache-manifest.beae447121067dfc40ee614f989a2588.js": "/react/wood/precache-manifest.beae447121067dfc40ee614f989a2588.js",
+    "service-worker.js": "/react/wood/service-worker.js",
+    "static/css/main.4d5a6c90.chunk.css.map": "/react/wood/static/css/main.4d5a6c90.chunk.css.map",
+    "static/js/2.ffb4dcf0.chunk.js.LICENSE.txt": "/react/wood/static/js/2.ffb4dcf0.chunk.js.LICENSE.txt",
+    "static/media/image 2.1.png": "/react/wood/static/media/image 2.1.dc143a47.png",
+    "static/media/image.png": "/react/wood/static/media/image.377d9706.png",
+    "static/media/App.css": "/react/wood/static/media/wood-right.ae50cb0d.png",
+    "static/media/wood-restaurant.png": "/react/wood/static/media/wood-restaurant.b889fe50.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e4a0562.js",
+    "static/js/runtime-main.7bb924f2.js",
     "static/js/2.ffb4dcf0.chunk.js",
-    "static/css/main.bcb42518.chunk.css",
-    "static/js/main.7753987c.chunk.js"
+    "static/css/main.4d5a6c90.chunk.css",
+    "static/js/main.0f1c144f.chunk.js"
   ]
 }
