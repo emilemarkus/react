@@ -1,0 +1,23 @@
+.btn-section {
+    position: relative;
+    font-size:18px;
+    padding:1rem 3rem;
+    background: none;
+    border:2px solid #BC9A44;
+    transition: all 0.5s linear;
+}
+.btn-section:hover {
+    background-color:  #BC9A44;
+    color:#fff;
+    border:2px solid #000;    
+}
+.btn-section::after{
+    content:" ";    
+    left:95%;
+    top:48%;
+    white-space: nowrap;
+    display:inline;
+    position:absolute;
+    width:150px;
+    border-top:2px solid #000;
+}
