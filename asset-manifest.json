@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react/woodstock/static/css/main.7aaaa036.chunk.css",
-    "main.js": "/react/woodstock/static/js/main.911ab1db.chunk.js",
-    "main.js.map": "/react/woodstock/static/js/main.911ab1db.chunk.js.map",
-    "runtime-main.js": "/react/woodstock/static/js/runtime-main.652a189c.js",
-    "runtime-main.js.map": "/react/woodstock/static/js/runtime-main.652a189c.js.map",
-    "static/js/2.ffb4dcf0.chunk.js": "/react/woodstock/static/js/2.ffb4dcf0.chunk.js",
-    "static/js/2.ffb4dcf0.chunk.js.map": "/react/woodstock/static/js/2.ffb4dcf0.chunk.js.map",
-    "index.html": "/react/woodstock/index.html",
-    "precache-manifest.c8362081c41251aac9b781b6988d8eba.js": "/react/woodstock/precache-manifest.c8362081c41251aac9b781b6988d8eba.js",
-    "service-worker.js": "/react/woodstock/service-worker.js",
-    "static/css/main.7aaaa036.chunk.css.map": "/react/woodstock/static/css/main.7aaaa036.chunk.css.map",
-    "static/js/2.ffb4dcf0.chunk.js.LICENSE.txt": "/react/woodstock/static/js/2.ffb4dcf0.chunk.js.LICENSE.txt",
-    "static/media/image 2.1.png": "/react/woodstock/static/media/image 2.1.dc143a47.png",
-    "static/media/image.png": "/react/woodstock/static/media/image.377d9706.png",
-    "static/media/App.css": "/react/woodstock/static/media/wood-right.ae50cb0d.png",
-    "static/media/wood-restaurant.png": "/react/woodstock/static/media/wood-restaurant.b889fe50.png"
+    "main.css": "/react/static/css/main.bcb42518.chunk.css",
+    "main.js": "/react/static/js/main.7753987c.chunk.js",
+    "main.js.map": "/react/static/js/main.7753987c.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.3e4a0562.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.3e4a0562.js.map",
+    "static/js/2.ffb4dcf0.chunk.js": "/react/static/js/2.ffb4dcf0.chunk.js",
+    "static/js/2.ffb4dcf0.chunk.js.map": "/react/static/js/2.ffb4dcf0.chunk.js.map",
+    "index.html": "/react/index.html",
+    "precache-manifest.49b3b4b3d92906f78236d7cdb0a38beb.js": "/react/precache-manifest.49b3b4b3d92906f78236d7cdb0a38beb.js",
+    "service-worker.js": "/react/service-worker.js",
+    "static/css/main.bcb42518.chunk.css.map": "/react/static/css/main.bcb42518.chunk.css.map",
+    "static/js/2.ffb4dcf0.chunk.js.LICENSE.txt": "/react/static/js/2.ffb4dcf0.chunk.js.LICENSE.txt",
+    "static/media/image 2.1.png": "/react/static/media/image 2.1.dc143a47.png",
+    "static/media/image.png": "/react/static/media/image.377d9706.png",
+    "static/media/App.css": "/react/static/media/wood-right.ae50cb0d.png",
+    "static/media/wood-restaurant.png": "/react/static/media/wood-restaurant.b889fe50.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.652a189c.js",
+    "static/js/runtime-main.3e4a0562.js",
     "static/js/2.ffb4dcf0.chunk.js",
-    "static/css/main.7aaaa036.chunk.css",
-    "static/js/main.911ab1db.chunk.js"
+    "static/css/main.bcb42518.chunk.css",
+    "static/js/main.7753987c.chunk.js"
   ]
 }
